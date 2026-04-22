@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9a8e77a3-0685-466f-83d6-991f7eaba1ba",
+  "export_job_id": "4d995b5f-f8ad-4709-a01d-661c51e0a47b",
   "id_short": 164152,
-  "published_at": "2026-04-18T07:30:19Z",
+  "published_at": "2026-04-22T19:19:22Z",
   "repo_name": "restaurant-verified-email-access-in-washington-d-c-district-of-columbia-us-sample-164152",
   "sample_asset_name": "beamstation_164152_restaurants-us-dc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/164152/beamstation_164152_restaurants-us-dc_SAMPLE_DIST.csv",
-  "sample_records": 117,
-  "sample_sha256": "3daa61143c713bf4449e61dbe22cada7bee4f8bc3b1444bb91e7a54c75b69710",
-  "sample_size_bytes": 494435,
-  "total_records": 1171
+  "sample_records": 110,
+  "sample_sha256": "32149cedcb0c7a509f58d70926075fe6590e27822752c74e358bd9fa9095a13d",
+  "sample_size_bytes": 466312,
+  "total_records": 1107
 }
